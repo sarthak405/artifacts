@@ -5,7 +5,7 @@ carol@example.net,Your Appointment Confirmation,"Hello Carol, your appointment i
 dave@example.com,Password Reset Request,"Hi Dave, click the link below to reset your password."
 erin@example.org,Weekly Report Submission,"Dear Erin, kindly submit your weekly report by Friday."
 frank@example.net,Event Reminder,"Hey Frank, don't forget about the event this Saturday at 6 PM."
-grace@example.com,Your Subscription is Ending,"Hi Grace, your subscription will expire on 25th May. Renew now to continue."
+grace,Your Subscription is Ending,"Hi Grace, your subscription will expire on 25th May. Renew now to continue."
 heidi@example.org,Team Meeting Notes,"Hello Heidi, here are the notes from today's team meeting."
 ivan@example.net,New Course Launch,"Hi Ivan, we've just launched a new course you might be interested in."
 judy@example.com,Performance Feedback,"Dear Judy, please review your performance feedback for Q1 2025."
